@@ -1,0 +1,20 @@
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe.config
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.pdb
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.AssemblyReference.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.SuggestedBindingRedirects.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.Properties.Resources.resources
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.GenerateResource.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.CoreCompileInputs.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.exe
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.pdb
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.CALCULADORA.resources
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe.config
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.exe
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.pdb
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.pdb
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csprojResolveAssemblyReference.cache
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.CALCULADORA.resources
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.Properties.Resources.resources
+C:\Users\servidor\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.GenerateResource.Cache
